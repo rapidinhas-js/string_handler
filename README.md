@@ -21,7 +21,7 @@
 
 ```javascript
 
-import strHandler from 'string_handler'
+const strHandler = require('string_handler/lib/string');
 
 
 // Data to example
