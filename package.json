@@ -1,0 +1,27 @@
+{
+  "name": "string_handler",
+  "version": "1.0.7",
+  "description": "Simple handlers for strings",
+  "main": "./src/handler.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rapidinhas-js/string_handler.git"
+  },
+  "keywords": [
+    "String",
+    "Handler",
+    "String",
+    "Handler",
+    "library",
+    "js"
+  ],
+  "author": "RapsJS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rapidinhas-js/string_handler/issues"
+  },
+  "homepage": "https://github.com/rapidinhas-js/string_handler#readme"
+}
