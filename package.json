@@ -1,6 +1,6 @@
 {
   "name": "string_handler",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Simple handlers for strings",
   "main": "./src/handler.js",
   "scripts": {
