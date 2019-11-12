@@ -27,7 +27,7 @@ const strHandler = require('string_handler/lib/string');
 // Data to example
 const object = [{ text: 'Text' }, { text: 'here' }, { text: 'please.' }]
 const propertyName = 'text'
-const separator = '| or space or , or whatever ypu want';
+const separator = '| or space or , or whatever you want';
 
 /*
   Call method 'objectArrayToString' and pass the three args
